@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://patejo-coder.github.io/single-price-grid-component-master/)
 
 ## My process
 
